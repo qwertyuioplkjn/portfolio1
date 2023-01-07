@@ -82,10 +82,11 @@ main{
 
 /* about section styles */
 .about{
+    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
-text-align: center;
+    text-align: center;
 }
 .section-title{
     text-align: center;
